@@ -49,7 +49,7 @@
     "@nestcloud/grpc": "^0.6.11",
     "@nestcloud/http": "^0.6.10-0",
     "@nestcloud/kubernetes": "^0.6.11",
-    "@nestcloud/loadbalance": "^0.6.11",
+    "@nestcloud/loadbalance": "^0.7.5",
     "@nestcloud/logger": "^0.6.11",
     "@nestcloud/memcached": "^0.6.11",
     "@nestcloud/proxy": "^0.6.11",
