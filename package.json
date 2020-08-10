@@ -42,7 +42,7 @@
     "@nestcloud/brakes": "^0.7.1",
     "@nestcloud/common": "^0.6.11",
     "@nestcloud/config": "^0.6.11",
-    "@nestcloud/consul": "^0.6.11",
+    "@nestcloud/consul": "^0.7.5",
     "@nestcloud/core": "^0.6.11",
     "@nestcloud/etcd": "^0.6.11",
     "@nestcloud/feign": "^0.6.11",
