@@ -38,7 +38,7 @@
     "@juicycleff/nestjs-event-store": "^3.1.18",
     "@konfy/graphql-mongo-query": "^2.0.6",
     "@moonwalker/graphql-nats-subscriptions": "^0.1.7",
-    "@nestcloud/boot": "^0.6.11",
+    "@nestcloud/boot": "^0.7.5",
     "@nestcloud/brakes": "^0.7.1",
     "@nestcloud/common": "^0.6.11",
     "@nestcloud/config": "^0.6.11",
