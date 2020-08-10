@@ -46,7 +46,7 @@
     "@nestcloud/core": "^0.6.11",
     "@nestcloud/etcd": "^0.6.11",
     "@nestcloud/feign": "^0.6.11",
-    "@nestcloud/grpc": "^0.6.11",
+    "@nestcloud/grpc": "^0.7.5",
     "@nestcloud/http": "^0.6.10-0",
     "@nestcloud/kubernetes": "^0.6.11",
     "@nestcloud/loadbalance": "^0.6.11",
