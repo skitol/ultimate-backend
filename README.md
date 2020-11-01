@@ -171,6 +171,7 @@ npx nest build service-project
 npx nest build service-tenant  
 npx nest build service-access  
 npx nest build service-role  
+npx nest build service-admin  
 ```  
   
 Each service is built and written into dist/apps directory from where you can directly run each service with nodejs. Running each service with ```npx nest start``` uses three orders of magnitude more memory than this method so you will use a lot less memory!  
